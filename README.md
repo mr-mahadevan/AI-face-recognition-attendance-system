@@ -46,7 +46,7 @@ To set up the Face Recognition Attendance System, follow these steps:
 
 4. **Run the application:**
     ```sh
-    python main.py
+    python AI_attendance.py
     ```
 
 ## Usage
@@ -95,8 +95,8 @@ To run this project in PyCharm, follow these steps:
      ```
 
 6. **Run the application:**
-   - In PyCharm, locate `main.py` in the project explorer.
-   - Right-click on `main.py` and select `Run 'main'`.
+   - In PyCharm, locate `AI_attendance.py` in the project explorer.
+   - Right-click on `AI_attendance.py` and select `Run 'main'`.
 
 ## Contributing
 
